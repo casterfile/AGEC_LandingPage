@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bafd1ba997716346ad650be1904713c, type: 3}
+  m_Name: BoardPositions
+  m_EditorClassIdentifier: 
+  BoardPositions:
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 0.795, y: -0.79, z: 1.23}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 6
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 0.795, y: -0.79, z: 1.23}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 1
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 5.81, y: -0.79, z: 1.23}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 7
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 5.81, y: -0.79, z: 1.23}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 2
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 5.81, y: -0.79, z: 1.79}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 5
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 5.68, y: -0.79, z: 0.68}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 9
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 0.93, y: -0.79, z: 0.68}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 8
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 0.73, y: -0.79, z: 1.83}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 4
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 3.31, y: -0.79, z: 1.83}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 10
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 3.31, y: -0.79, z: 0.599}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 11
+  - Id: Puzzle Pieces 4by3
+    Position: {x: 3.45, y: -0.79, z: 1.224}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Scale: {x: 1.3, y: 1.3, z: 1.3}
+    ScreenBoardPosition: 3

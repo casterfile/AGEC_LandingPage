@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bafd1ba997716346ad650be1904713c, type: 3}
+  m_Name: PilePositions
+  m_EditorClassIdentifier: 
+  BoardPositions:
+  - Id: PileContainer
+    Position: {x: 3.3729, y: 2.954, z: -3.4759998}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 6
+  - Id: PileContainer
+    Position: {x: 3.3729, y: 2.954, z: -3.4759998}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 1
+  - Id: PileContainer
+    Position: {x: -2.8856997, y: 2.954, z: -3.4759998}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 7
+  - Id: PileContainer
+    Position: {x: -2.8856997, y: 2.954, z: -3.4759998}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 2
+  - Id: PileContainer
+    Position: {x: -2.8856997, y: 2.954, z: -3.0823998}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 5
+  - Id: PileContainer
+    Position: {x: -2.9520001, y: 2.954, z: -3.714}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 9
+  - Id: PileContainer
+    Position: {x: 3.335, y: 2.954, z: -3.6879995}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 4
+  - Id: PileContainer
+    Position: {x: 3.2389998, y: 2.954, z: -3.0969996}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 3.5, y: 3.5, z: 3.5}
+    ScreenBoardPosition: 1
+  - Id: RectangularPileContainer
+    Position: {x: 0.37980008, y: 2.8967998, z: -5.5241}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 0.4, y: 0.4, z: 0.4}
+    ScreenBoardPosition: 10
+  - Id: RectangularPileContainer
+    Position: {x: 0.34210014, y: 2.8967998, z: -1.2626001}
+    Rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+    Scale: {x: 0.4, y: 0.4, z: 0.4}
+    ScreenBoardPosition: 11
+  - Id: RectangularPileContainer
+    Position: {x: -3.9170992, y: 2.8967998, z: -3.3532996}
+    Rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+    Scale: {x: 0.4, y: 0.4, z: 0.4}
+    ScreenBoardPosition: 3
