@@ -1,0 +1,4 @@
+#Tue Feb 16 09:49:51 SGT 2021
+base.0=D\:\\Unity Project\\AGEC_LandingPage\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
