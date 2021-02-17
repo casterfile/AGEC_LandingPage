@@ -6,7 +6,7 @@ using UnityAndroidOpenUrl;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AndroidFolderCreate : MonoBehaviour
+public class LauncherApp_DownloadInstall : MonoBehaviour
 {
     public string publicURL;
     private string savePath;
@@ -33,7 +33,7 @@ public class AndroidFolderCreate : MonoBehaviour
 
         //string url = "https://download.apkpure.com/b/APK/Y29tLmZhY2Vib29rLmxpdGVfMjcyMDgyNzA4XzNkMGYxZjkx?_fn=RmFjZWJvb2sgTGl0ZV92MjM3LjAuMC43LjExOF9hcGtwdXJlLmNvbS5hcGs&as=277f7c3638b4f1c4a594337496cbe8e360236eff&ai=714353206&at=1612934791&_sa=ai%2Cat&k=e01e7829cc8bda069c9901e8c225337360261187&_p=Y29tLmZhY2Vib29rLmxpdGU&c=1%7CSOCIAL%7CZGV2PUZhY2Vib29rJnQ9YXBrJnM9MTYxNzA0OCZ2bj0yMzcuMC4wLjcuMTE4JnZjPTI3MjA4MjcwOA";
         //url = "http://192.168.1.8/download/Philippines_1987";
-        url = "http://192.168.1.8/download/FB.apk";
+        url = publicURL;//https://cac-bw.gmsg.ai/DownloadSample/FB.apk
         savePath = Path.Combine(Application.persistentDataPath, "data");
         savePath = Path.Combine(savePath, namePDF + "." + typeData);
 
